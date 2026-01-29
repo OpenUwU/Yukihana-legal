@@ -149,7 +149,6 @@ If you have questions about this Privacy Policy or wish to request full data del
 
 ---
 
-**Effective Date:** January 29, 2026  
-**Version:** 1.0
+[![Discord](https://img.shields.io/badge/Join_Our_Community-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/zqxWVH3CvG)
 
 </div>
